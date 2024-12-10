@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @TikiParadise
+- 👀 I’m interested in application development
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on anything I can
+- 📫 How to reach me
+-   Tiki@tikiparadise.net
+-   www.tikiparadise.net
+-   My Discord: KrazyTiki816
+-   Main Discord: https://discord.com/invite/vYS7GCGgPt
+- 😄 Pronouns: He/Him
